@@ -1,0 +1,3 @@
+/Users/olandrre/Desktop/cpp_sem3/week01/project/build/CMakeFiles/MyTrigonometricFuncProject.dir
+/Users/olandrre/Desktop/cpp_sem3/week01/project/build/CMakeFiles/edit_cache.dir
+/Users/olandrre/Desktop/cpp_sem3/week01/project/build/CMakeFiles/rebuild_cache.dir
