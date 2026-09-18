@@ -2,7 +2,6 @@
 #include <cmath>
 #include <iomanip>
 #include "my_math.hpp"
-#include "ans_handler.hpp"
 
 int main() {
     double x = 10;

@@ -13,7 +13,7 @@ message(INFO:\ ${MyTrigonometricFuncProject_SOURCE_DIR})
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${MyTrigonometricFuncProject_SOURCE_DIR}/bin)
 # ^ Directory where store build of project
 
-include_directories(include/)
+include_directories(inc/)
 # ^ Directory with headers to be included (like -I option of compiler)
 
 add_executable(MyTrigonometricFuncProject main.cpp src/my_math.cpp src/ans_handler.cpp) 

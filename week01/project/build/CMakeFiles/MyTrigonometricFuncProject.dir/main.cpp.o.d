@@ -785,5 +785,5 @@ CMakeFiles/MyTrigonometricFuncProject.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iomanip \
-  /Users/olandrre/Desktop/cpp_sem3/week01/project/include/my_math.hpp \
-  /Users/olandrre/Desktop/cpp_sem3/week01/project/include/ans_handler.hpp
+  /Users/olandrre/Desktop/cpp_sem3/week01/project/inc/my_math.hpp \
+  /Users/olandrre/Desktop/cpp_sem3/week01/project/inc/ans_handler.hpp

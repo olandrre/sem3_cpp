@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/olandrre/Desktop/cpp_sem3/week01/project/include
+CXX_INCLUDES = -I/Users/olandrre/Desktop/cpp_sem3/week01/project/inc
 
 CXX_FLAGSarm64 =  -arch arm64
 

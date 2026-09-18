@@ -208,5 +208,5 @@ CMakeFiles/MyTrigonometricFuncProject.dir/src/my_math.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_abort.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/olandrre/Desktop/cpp_sem3/week01/project/include/my_math.hpp \
-  /Users/olandrre/Desktop/cpp_sem3/week01/project/include/ans_handler.hpp
+  /Users/olandrre/Desktop/cpp_sem3/week01/project/inc/my_math.hpp \
+  /Users/olandrre/Desktop/cpp_sem3/week01/project/inc/ans_handler.hpp
