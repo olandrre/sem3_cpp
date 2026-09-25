@@ -1,0 +1,1 @@
+/usr/bin/g++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Vec3Project.dir/main.cpp.o CMakeFiles/Vec3Project.dir/src/vec3.cpp.o CMakeFiles/Vec3Project.dir/src/ivec.cpp.o -o /Users/olandrre/Desktop/cpp_sem3/week03/project/bin/Vec3Project
