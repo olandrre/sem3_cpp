@@ -1,11 +1,7 @@
 #include "vec3.hpp"
 #include <cmath>
 
-Vec3::Vec3(double x, double y, double z) {
-    e[0] = x;
-    e[1] = y;
-    e[2] = z;
-}
+Vec3::Vec3(double x, double y, double z) : e{x, y, z}, veeee{z} {}
 
 Vec3::Vec3() : Vec3(0, 0, 0) {}
 
@@ -32,7 +28,7 @@ Vec3& Vec3::operator*=(double t) {
 }
 
 Vec3& Vec3::operator/=(double t) {
-    return *this *= 1 / t;
+    return *this *= 1.0 / t;
 }
 
 double Vec3::length() const {

@@ -5,6 +5,7 @@
 class Vec3 : public IVec {
 private:
     double e[3];
+    double& veeee;
 
 public: 
     Vec3(double x, double y, double z);
